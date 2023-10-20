@@ -10,7 +10,7 @@ Full-Stack Java Developer with expertise in Java and JavaScript. Fluent in Russi
 
 ## Personal Projects
 
-One of my significant achievements is the development of a CRUD Demo project. This project, built with Java, Spring Boot, jQuery, and H2, showcases my proficiency in adopting the MVC architectural pattern for enhanced maintainability. I have also successfully created a backend service using Spring Boot, handling CRUD operations, health-checks, and server stats retrieval. 
+One of my significant achievements is the development of a CRUD Demo project. This project, built with Java, Spring Boot, jQuery, and H2, showcases my proficiency in adopting the MVC architectural pattern for enhanced maintainability. I have also successfully created a backend service using Spring Boot, handling CRUD operations.
 
 ## Experience
 
