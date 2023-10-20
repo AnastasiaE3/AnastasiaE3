@@ -12,39 +12,39 @@
 
 <button onclick="downloadAsPDF()">Download Resume As PDF</button>
 
-# Christopher Dean Walls
+# Anastasia Epifanova 
 
 ## Full-Stack Java Developer
 
 ### Contact Information
 
-* Email: [`deanofwalls@gmail.com`](mailto:deanofwalls@gmail.com)
-* Phone: [`302-241-3736`](tel:+1-302-241-3736)
-* Website: [`http://deanwalls.com`](http://deanwalls.com)
-* LinkedIn: [`https://www.linkedin.com/in/deanofwalls/`](https://www.linkedin.com/in/deanofwalls/)
+* Email: [`AnastasiaEpifanovaAE@gmail.com`](AnastasiaEpifanovaAE@gmail.com)
+* Phone: [`277-367-8574`](tel:+1-267-367-8574)
+* Website: [`nastyaepifanova.com`](http://nastyaepifanova.com)
+* LinkedIn: [`[linkedin.com/in/epifanova-anastasia-nastya`](https://www.linkedin.com/in/epifanova-anastasia-nastya)
 
 ### Summary
 
-* Reliable and detail-oriented Java software Developer with a LPN (Licensed Practical Nursing) Diploma who previously held an LPN License for the State of Delaware. 
-* Diverse set of previous work experiences as a developer and co-designer for Thelast.io, a Battle Royale-style multi-player web game, with responsibilities for managing finances, public relations, and advertising as well as asset production. 
-* Other prior work experience as a commercial tractor-trailer driver at Dot Foods and as a technical support advisor for Apple. 
-* Strong organizational skills and the ability to troubleshoot technical issues. 
-* Eager to apply skillset to a new career in software development collaborating with others to build efficient and useful solutions.
+Full-Stack Java Developer with a foundation in communications studies and a passion for art. My creative background allows me to approach coding with a unique perspective, fostering creativity and open-mindedness in problem-solving. Proficient in Java and JavaScript, I am eager to collaborate with high-performing tech teams to tackle complex business challenges. Known for a positive, thoughtful, and results-oriented approach, I excel in delivering high-availability solutions through effective teamwork.
 
 ## Personal Projects
 
 ### CRUD Demo
-  * A [live demo can be viewed here.](http://crud_demo.deanwalls.com) allowing users to manage entries in an H2 database. 
-  * Developed with Java, Spring Boot, jQuery, and H2; adopting the MVC architectural pattern for enhanced maintainability. 
+  <!-- * A [live demo can be viewed here.](http://crud_demo.deanwalls.com) allowing users to manage entries in an H2 database.  -->
+  <!-- * Developed with Java, Spring Boot, jQuery, and H2; adopting the MVC architectural pattern for enhanced maintainability. 
 
 ### Back-End
-  * Developed a backend service using Spring Boot, handling CRUD operations, health-checks, and server stats retrieval.
-  * Crafted RESTful APIs for data management, integrated services using Spring Annotations, and set up CORS for [https://deanofwalls.github.io](https://deanofwalls.github.io).
+  * Developed a backend service using Spring Boot, handling CRUD operations
+  * Crafted RESTful APIs for data management, integrated services using Spring Annotations, and set up CORS for [https://deanofwalls.github.io](https://deanofwalls.github.io). -->
+
+- **CRUD Demo**: [https://github.com/AnastasiaE3/FirstCrudApp](https://github.com/AnastasiaE3/FirstCrudApp) 
+* Developed with Java, Spring Boot, jQuery, and H2.
+* Allowing users to manage entries in an H2 database.
 
 
-### Front-End
+<!-- ### Front-End
   * Hosted on Github Pages with UI elements structured in HTML, styled with CSS, and dynamic data operations via AJAX.
-  * Incorporated CORS for secure front-to-back-end communication.
+  * Incorporated CORS for secure front-to-back-end communication. -->
 
 <div style="page-break-before: always;"></div>
 <br class="print-only">

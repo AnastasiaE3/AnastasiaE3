@@ -2,7 +2,7 @@
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deanofwalls&hide=roff,tsql,html,css,javascript,c,c%2B%2B,MATLAB,perl&theme=tokyonight)<br> -->
 
-<img alt="deanOfWalls GitHub stats" src="https://github-readme-stats.vercel.app/api?username=deanOfWalls&hide_rank=true&hide=stars,contribs&show_icons=true&theme=react">
+<!-- <img alt="deanOfWalls GitHub stats" src="https://github-readme-stats.vercel.app/api?username=deanOfWalls&hide_rank=true&hide=stars,contribs&show_icons=true&theme=react"> -->
 
 
 
@@ -16,5 +16,5 @@ _Click [here](https://deanofwalls.github.io/deanOfWalls/resume.html) to view ful
 
 ### Contact Information
 * **Email**: [`anastasiaepifanovaae@gmail.com`](anastasiaepifanovaae@gmail.com)
-* **Website:** [`http://deanwalls.com`](http://deanwalls.com)
-* **LinkedIn:** [`https://www.linkedin.com/in/deanofwalls/`](https://www.linkedin.com/in/deanofwalls)
+<!-- * **Website:** [`http://deanwalls.com`](http://deanwalls.com) -->
+* **LinkedIn:** [`linkedin.com/in/epifanova-anastasia-nastya`](https://www.linkedin.com/in/epifanova-anastasia-nastya)
