@@ -6,7 +6,7 @@ I am writing to express my strong interest in the Full-Stack Java Developer posi
 
 ## Summary
 
-I am a reliable and detail-oriented Java Software Developer with a Licensed Practical Nursing (LPN) Diploma and prior LPN licensure in the State of Delaware. My professional journey has equipped me with a unique blend of skills, from developing web games to commercial driving and technical support. These experiences have honed my organizational abilities and my knack for troubleshooting technical issues.
+Full-Stack Java Developer with expertise in Java and JavaScript. Fluent in Russian and English. Proven track record in software development, project management, and problem-solving. Experienced at Zip Code Wilmington and DORC Dutch Ophthalmic Research Center. Holds an Associate of Arts degree in Communication from Bucks County Community College. Strong in teamwork, communication, and delivering high-availability solutions.
 
 ## Personal Projects
 
@@ -20,27 +20,32 @@ One of my significant achievements is the development of a CRUD Demo project. Th
 
 During my time at Zip Code Wilmington, I gained over 1000 hours of hands-on experience in software development. I was immersed in Agile and Scrum methodologies, focusing on Java, test-driven development, and object-oriented programming.
 
-**Commercial Tractor Trailer Driver**  
-*DOT Foods; Bear, DE.*  
-*February 2020 - August 2022*
+### Dutch Ophthalmic Research Center (D.O.R.C.); Doylestown, PA 
 
-My role as a commercial tractor-trailer driver at DOT Foods involved meticulous equipment inspections, general maintenance, and the critical responsibility of monitoring reefer units to maintain product temperature integrity. I became adept at using electronic logging devices to ensure efficient route planning.
+**Assembler**
+ Assembled fragile, specialty ophthalmic laser equipment for over a year with zero errors. Solely responsible for quality assurance, inventory tracking, and order management for medical products, including lasers for eye and ear surgeries.
 
-**Technical Support Advisor**  
-*Kelly Connect; USA.*  
-*2018 - 2019*
+### Dynamic Home Health; Bensalem, PA 
 
-As a Technical Support Advisor, I provided assistance for various Apple products, including iOS, macOS, watchOS, Apple ID, iCloud, and Beats. This role enhanced my customer service skills and technical troubleshooting abilities.
+**Medical Records and Quality Assurance Coordinator**
+Resolved conflicts between clients and insurance companies.Produced daily activity and performance reports. Recruited and fostered relationships with new and existing clients. Developed and executed plans to reduce system problems effectively.
 
 ## Education
+- **Zip Code | Wilmington, DE**
+ *2023 Certificate of Completion*
 
-- **2023**: Certificate of Completion, Zip Code Wilmington
-- **2019**: Commercial Transportation Studies, Delaware Technical and Community College
-- **2014**: Licensed Nursing Practitioner Diploma, Delaware Technical and Community College
+- **Bucks County Community College | Newtown, PA**  
+  *September 2019 – May 2021*  
+  Completed 51 of 62 credits towards an Associate of Arts in Communications Studies.
+
+- **M.I. Malyutin Art College | Ivanovo, Russia**  
+  *September 2016 – May 2017*  
+  Completed initial coursework towards a degree in Product Design.
+
 
 I am excited about the opportunity to bring my unique skill set and experiences to a career in software development. I look forward to collaborating with your team to build efficient and useful solutions. Thank you for considering my application.
 
 Sincerely,
 
-Christopher Dean Walls
-[Email: deanofwalls@gmail.com](mailto:deanofwalls@gmail.com) | [LinkedIn](https://www.linkedin.com/in/deanofwalls/) | [Website](http://deanwalls.com)
+Anastasia Epifanova
+[Email: AnastasiaEpifanovaAE@gmail.com](mailto:AnastasiaEpifanovaAE@gmail.com) | [LinkedIn](linkedin.com/in/epifanova-anastasia-nastya)
