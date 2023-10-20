@@ -15,6 +15,6 @@ _Click [here](https://deanofwalls.github.io/deanOfWalls/resume.html) to view ful
 
 
 ### Contact Information
-* **Email**: [`deanofwalls@gmail.com`](mailto:deanofwalls@gmail.com)
+* **Email**: [`anastasiaepifanovaae@gmail.com`](anastasiaepifanovaae@gmail.com)
 * **Website:** [`http://deanwalls.com`](http://deanwalls.com)
 * **LinkedIn:** [`https://www.linkedin.com/in/deanofwalls/`](https://www.linkedin.com/in/deanofwalls)
