@@ -1,5 +1,17 @@
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
+
+<div class="header-bar"></div>
  <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
- 
+ <script>
+    function downloadAsPDF() {
+        // Assuming the PDF file is named 'sample.pdf' and resides in the same directory as your README.md
+        window.location.href = 'resume.pdf';
+    }
+</script>
+<meta property="og:title" content="Dean-Walls-Public-Portfolio" />
+
+<button onclick="downloadAsPDF()">Download Resume As PDF</button> 
+
 # Anastasia Epifanova 
 
 ## Full-Stack Java Developer
