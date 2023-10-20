@@ -1,3 +1,5 @@
+ <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
+ 
 # Anastasia Epifanova 
 
 ## Full-Stack Java Developer
