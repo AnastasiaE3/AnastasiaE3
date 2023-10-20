@@ -7,7 +7,7 @@
 
 
 
-_Click [here](https://deanofwalls.github.io/deanOfWalls/resume.html) to view full portfolio_
+_Click [here](https://anastasiae3.github.io/AnastasiaE3/resume.html) to view full portfolio_
 
 
 ### Education
