@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap'); 
+
+/* * {
+    border: 3px solid red !important;
+} */
+
+
+/* header a, header ul,p:nth-child(2),h1:nth-child(1){
+    display:none;
+
+} */
+
+
+code, pre { font-family: 'Sora', sans-serif; color: #2f68e1; font-size: 12px; overflow-x: auto; }
+
+
+body {
+    font-family: 'Sora', sans-serif;
+    background-color: rgb(67, 70, 84) ;
+}
+
+ul li a {
+    color: #2f68e1 !important;
+}
+
+ul li a:hover {
+    color: #2f68e1 !important;
+}
+
+ul li a:visited {
+    color: #2f68e1 !important;
+}
+
+ul li a:active {
+    color: #2f68e1 !important;
+}
+
+
+
+.wrapper {
+    background-color: white !important;
+    padding: 5px; /* adjust to keep it from sticking out of the rounded corners of section */
+}
+
+.wrapper section {
+    background: transparent !important;
+}
+
+main, .main, .content, .post-content {
+    background-color: white;
+}
+
+.header, ::before, header h1, footer {
+    font-family: 'Sora', sans-serif;
+}
+
+header {
+    font-size: 0;
+    color: transparent;
+    display: none;
+    content: none;
+}
+
+
+footer {
+    display: none;
+}
+
+.content-wrapper {
+    background-color: white;
+    padding: 20px;
+}
+
+.markdown-body .post-content a {
+    color: blue;
+  }
+
+
+/* Print-specific styles */
+@media print {
+    .pagebreak {
+        display: block;
+        page-break-before: always;
+        page-break-after: always; 
+    }
+
+    .print-only {
+        display: block;
+    }
+}
+
+/* Screen-specific styles */
+@media screen {
+    body {
+        transform: scale(1.5);
+        transform-origin: top center;
+        width: calc(100% / 1.5);
+        margin: 0 auto;
+        overflow-x: hidden;
+    }
+
+    .print-only {
+        display: none;
+    }
+}
