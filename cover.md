@@ -2,7 +2,7 @@
 
 Dear Hiring Manager,
 
-I am writing to express my strong interest in the Full-Stack Java Developer position at your company. With my diverse background and experience in both software development and practical nursing, I believe I can make a valuable contribution to your team.
+I am writing to express my strong interest in the Full-Stack Java Developer position at your company. With my diverse background and experience in software development, I believe I can make a valuable contribution to your team.
 
 ## Summary
 

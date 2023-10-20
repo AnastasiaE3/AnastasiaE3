@@ -93,5 +93,5 @@ Full-Stack Java Developer with a foundation in communications studies and a pass
 
 - **M.I. Malyutin Art College | Ivanovo, Russia**  
   *September 2016 – May 2017*  
-  Completed initial coursework towards a degree in Product Design.                      |
+  Completed initial coursework towards a degree in Product Design.
 
