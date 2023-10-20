@@ -1,17 +1,3 @@
-<!-- <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
-
-<div class="header-bar"></div>
- <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
- <script>
-    function downloadAsPDF() {
-        // Assuming the PDF file is named 'sample.pdf' and resides in the same directory as your README.md
-        window.location.href = 'resume.pdf';
-    }
-</script>
-<meta property="og:title" content="Dean-Walls-Public-Portfolio" />
-
-<button onclick="downloadAsPDF()">Download Resume As PDF</button>  -->
-
 # Anastasia Epifanova 
 
 ## Full-Stack Java Developer
@@ -30,21 +16,11 @@ Full-Stack Java Developer with a foundation in communications studies and a pass
 ## Personal Projects
 
 ### CRUD Demo
-  <!-- * A [live demo can be viewed here.](http://crud_demo.deanwalls.com) allowing users to manage entries in an H2 database.  -->
-  <!-- * Developed with Java, Spring Boot, jQuery, and H2; adopting the MVC architectural pattern for enhanced maintainability. 
-
-### Back-End
-  * Developed a backend service using Spring Boot, handling CRUD operations
-  * Crafted RESTful APIs for data management, integrated services using Spring Annotations, and set up CORS for [https://deanofwalls.github.io](https://deanofwalls.github.io). -->
 
 - **CRUD Demo**: [https://github.com/AnastasiaE3/FirstCrudApp](https://github.com/AnastasiaE3/FirstCrudApp) 
 * Developed with Java, Spring Boot, jQuery, and H2.
 * Allowing users to manage entries in an H2 database.
 
-
-<!-- ### Front-End
-  * Hosted on Github Pages with UI elements structured in HTML, styled with CSS, and dynamic data operations via AJAX.
-  * Incorporated CORS for secure front-to-back-end communication. -->
 
 <div style="page-break-before: always;"></div>
 <br class="print-only">
