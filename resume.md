@@ -2,15 +2,8 @@
 
 <div class="header-bar"></div>
  <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
- <!-- <script>
-    function downloadAsPDF() {
-        // Assuming the PDF file is named 'sample.pdf' and resides in the same directory as your README.md
-        window.location.href = 'resume.pdf';
-    }
-</script> -->
-<meta property="og:title" content="Dean-Walls-Public-Portfolio" />
 
-<!-- <button onclick="downloadAsPDF()">Download Resume As PDF</button>  -->
+<meta property="og:title" content="Anastasia-Epifanova-Public-Portfolio"/>
 
 # Anastasia Epifanova 
 
