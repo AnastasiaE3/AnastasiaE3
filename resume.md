@@ -10,7 +10,7 @@
 </script>
 <meta property="og:title" content="Dean-Walls-Public-Portfolio" />
 
-<!-- <button onclick="downloadAsPDF()">Download Resume As PDF</button> --> -->
+<!-- <button onclick="downloadAsPDF()">Download Resume As PDF</button> --> 
 
 # Anastasia Epifanova 
 
@@ -21,7 +21,7 @@
 * Email: [`AnastasiaEpifanovaAE@gmail.com`](AnastasiaEpifanovaAE@gmail.com)
 * Phone: [`277-367-8574`](tel:+1-267-367-8574)
 * Website: [`nastyaepifanova.com`](http://nastyaepifanova.com)
-* LinkedIn: [`[linkedin.com/in/epifanova-anastasia-nastya`](https://www.linkedin.com/in/epifanova-anastasia-nastya)
+* LinkedIn: [`linkedin.com/in/epifanova-anastasia-nastya`](https://www.linkedin.com/in/epifanova-anastasia-nastya)
 
 ### Summary
 
@@ -49,40 +49,49 @@ Full-Stack Java Developer with a foundation in communications studies and a pass
 <div style="page-break-before: always;"></div>
 <br class="print-only">
 
-## Experience
+# Experience
+### Zip Code Wilmington; Wilmington, DE 
+*February 2023 – May 2023*
 
-### Software Developer
+**Software Developer**
+- Admitted into Zip Code Wilmington's highly competitive software development program, accepting less than 12% of applicants.
+- Completed over 1000 hours of software development projects in an immersive, full-stack training program.
+- Utilized Agile and Scrum methodologies and test-driven development.
+- Gained experience in full-stack development with a focus on Java, test-driven development, and object-oriented programming.
 
-#### Zip Code Wilmington; Wilmington, DE.
+### Dutch Ophthalmic Research Center (D.O.R.C.); Doylestown, PA 
+*June 2021 – December 2022*
 
-##### February 2023 - May 2023
+**Assembler**
+- Assembled fragile, specialty ophthalmic laser equipment for over a year with zero errors.
+- Solely responsible for quality assurance, inventory tracking, and order management for medical products, including lasers for eye and ear surgeries.
 
-* Admitted into Zip Code Wilmington’s highly competitive software development program which accepts less than 12% of applicants.
-* Achieved over 1000 hours of software development projects and training in an immersive training program using Agile and Scrum methodologies and principles.
-* Gained experience in full-stack development with a focus on Java, test-driven development, and object-oriented programming.
+### Dynamic Home Health; Bensalem, PA 
+*September 2020 – March 2021*
 
-### Commercial Tractor Trailer Driver
+**Medical Records and Quality Assurance Coordinator**
+- Resolved conflicts between clients and insurance companies.
+- Produced daily activity and performance reports.
+- Recruited and fostered relationships with new and existing clients.
+- Developed and executed plans to reduce system problems effectively.
 
-#### DOT Foods; Bear, DE.
+### Ossetian Sapporo, Restaurant Busser; Huntingdon Valley, PA 
+*August 2019 – March 2020*
 
-##### February 2020 - August 2022
+### First Children’s Academy, Teacher’s Assistant; Southampton, PA 
+*April 2019 – July 2019*
 
-* Performed pre-trip and post-trip inspections on all equipment and performed general maintenance on tractors.
-* Monitored and maintained reefer units to maintain temperature integrity of products, maintained fuel and Diesel Exhaust Fluid levels of tractors and reefers.
-* Used electronic logging devices to log hours of service, load information and plan trip routes and times.
-
-### Technical Support Advisor
-
-#### Kelly Connect; USA.
-
-##### 2018 - 2019
-
-* Provided Technical Support/Help Desk assistance for iOS, macOS, and watchOS and Apple ID, iCloud, and Beats issues.
-
+### Guest House Vishneviy Sad, House Manager; Plyos, Russia 
+*2014 – 2016*
 ## Education
+- **Zip Code | Wilmington, DE**
+ *2023 Certificate of Completion*
 
-| 2023 | Zip Code Wilmington                     | <a href="zipcode.pdf" target="_blank">Certificate of Completion - 2023</a>                  |
-|------|-----------------------------------------|--------------------------------------------------------------------|
-| 2019 | Delaware Technical and Community College| <a href="driverCert.pdf" target="_blank">Commercial Transportation Studies</a>                                  |
-| 2014 | Delaware Technical and Community College| <a href="lpnDiploma.pdf" target="_blank">Licensed Nursing Practitioner Diploma</a>                              |
+- **Bucks County Community College | Newtown, PA**  
+  *September 2019 – May 2021*  
+  Completed 51 of 62 credits towards an Associate of Arts in Communications Studies.
+
+- **M.I. Malyutin Art College | Ivanovo, Russia**  
+  *September 2016 – May 2017*  
+  Completed initial coursework towards a degree in Product Design.                      |
 
