@@ -58,23 +58,12 @@ Full-Stack Java Developer with a foundation in communications studies and a pass
 - Recruited and fostered relationships with new and existing clients.
 - Developed and executed plans to reduce system problems effectively.
 
-### Ossetian Sapporo, Restaurant Busser; Huntingdon Valley, PA 
-*August 2019 – March 2020*
-
-### First Children’s Academy, Teacher’s Assistant; Southampton, PA 
-*April 2019 – July 2019*
-
-### Guest House Vishneviy Sad, House Manager; Plyos, Russia 
-*2014 – 2016*
 ## Education
 - **Zip Code | Wilmington, DE**
  *2023 Certificate of Completion*
 
 - **Bucks County Community College | Newtown, PA**  
   *September 2019 – May 2021*  
-  Completed 51 of 62 credits towards an Associate of Arts in Communications Studies.
+  Associate of Arts in Communications Studies.
 
-- **M.I. Malyutin Art College | Ivanovo, Russia**  
-  *September 2016 – May 2017*  
-  Completed initial coursework towards a degree in Product Design.
 

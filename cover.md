@@ -34,14 +34,6 @@ Resolved conflicts between clients and insurance companies.Produced daily activi
 **Zip Code | Wilmington, DE**
  *2023 Certificate of Completion*
 
-**Bucks County Community College | Newtown, PA**  
-  *September 2019 – May 2021*  
-  Completed 51 of 62 credits towards an Associate of Arts in Communications Studies.
-
-**M.I. Malyutin Art College | Ivanovo, Russia**  
-  *September 2016 – May 2017*  
-  Completed initial coursework towards a degree in Product Design.
-
 
 I am excited about the opportunity to bring my unique skill set and experiences to a career in software development. I look forward to collaborating with your team to build efficient and useful solutions. Thank you for considering my application.
 
