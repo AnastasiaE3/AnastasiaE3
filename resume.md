@@ -20,13 +20,22 @@
 
 Full-Stack Java Developer with a foundation in communications studies and a passion for art. My creative background allows me to approach coding with a unique perspective, fostering creativity and open-mindedness in problem-solving. Proficient in Java and JavaScript, I am eager to collaborate with high-performing tech teams to tackle complex business challenges. Known for a positive, thoughtful, and results-oriented approach, I excel in delivering high-availability solutions through effective teamwork.
 
-## Personal Projects
+## Personal Project
 
 ### CRUD Demo
 
 - **CRUD Demo**: [https://github.com/AnastasiaE3/FirstCrudApp](https://github.com/AnastasiaE3/FirstCrudApp) 
 * Developed with Java, Spring Boot, jQuery, and H2.
 * Allowing users to manage entries in an H2 database.
+
+## Group Project
+
+### Flutter App
+
+- **Flutter App**: [https://github.com/Ringlet-TwitterClone-Flutter/FlutterApp](https://github.com/Ringlet-TwitterClone-Flutter/FlutterApp)
+* Flutter is a social media platform application(Twitter clone) developed by an agile team of four, utilizing Java, Spring/Spring Boot, Maven, JHipster, JavaScript, React, PostGreSQL and many more technologies.
+* On Flutter, users are able to create an account, edit their user profile, create/edit/delete posts of thier own, and comment on other users' posts. They are able to embed their posts with hashtags, and search for similar content via those very hashtags.
+
 
 
 <div style="page-break-before: always;"></div>
