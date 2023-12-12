@@ -36,11 +36,6 @@ Full-Stack Java Developer with a foundation in communications studies and a pass
 * Flutter is a social media platform application(Twitter clone) developed by an agile team of four, utilizing Java, Spring/Spring Boot, Maven, JHipster, JavaScript, React, PostGreSQL and many more technologies.
 * On Flutter, users are able to create an account, edit their user profile, create/edit/delete posts of thier own, and comment on other users' posts. They are able to embed their posts with hashtags, and search for similar content via those very hashtags.
 
-
-
-<div style="page-break-before: always;"></div>
-<br class="print-only">
-
 # Experience
 ### Zip Code Wilmington; Wilmington, DE 
 *February 2023 – May 2023*
