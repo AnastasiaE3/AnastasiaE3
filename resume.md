@@ -16,7 +16,6 @@
 * Website: [`nastyaepifanova.com`](http://nastyaepifanova.com)
 * LinkedIn: [`linkedin.com/in/epifanova-anastasia-nastya`](https://www.linkedin.com/in/epifanova-anastasia-nastya)
 
-<br> 
 
 ### Summary
 
