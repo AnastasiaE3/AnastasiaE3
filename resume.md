@@ -20,12 +20,28 @@
 
 Full-Stack Java Developer with a foundation in communications studies and a passion for art. My creative background allows me to approach coding with a unique perspective, fostering creativity and open-mindedness in problem-solving. Proficient in Java and JavaScript, I am eager to collaborate with high-performing tech teams to tackle complex business challenges. Known for a positive, thoughtful, and results-oriented approach, I excel in delivering high-availability solutions through effective teamwork.
 
+### Certification
+
+#### JPMorgan Chase & Co. Software Engineering Lite virtual experience program on
+Forage - December 2023
+* Completed a simulation focused on the process of completing an engineering
+ ticket for a system in the credit-card rewards department of JPMorgan Chase &
+ Co.
+* Created a new class to get an existing system up and running 
+* Wrote a test suite for the class added
+
 ## Personal Project
 
 ### CRUD Demo
 
 - **CRUD Demo**: [https://github.com/AnastasiaE3/FirstCrudApp](https://github.com/AnastasiaE3/FirstCrudApp) 
-* Developed with Java, Spring Boot, jQuery, and H2.
+* Developed using Spring Boot, showcasing skills in modern web app development
+* Technologies Used:
+  * Spring Boot: For rapid development and easy setup.
+  * Spring Data JPA: For database integration and data management.
+  * Spring Web: To create an interactive web interface.
+  * H2 Database: In-memory database for efficient data handling.
+  * Maven: For project management and build automation
 * Allowing users to manage entries in an H2 database.
 
 ## Group Project
