@@ -16,7 +16,7 @@
 * Website: [`nastyaepifanova.com`](http://nastyaepifanova.com)
 * LinkedIn: [`linkedin.com/in/epifanova-anastasia-nastya`](https://www.linkedin.com/in/epifanova-anastasia-nastya)
 
-
+<br> 
 
 ### Summary
 
@@ -32,7 +32,6 @@ Forage - December 2023
 * Created a new class to get an existing system up and running 
 * Wrote a test suite for the class added
 
-<br> 
 
 ## Personal Project
 
@@ -55,8 +54,6 @@ Forage - December 2023
 - **Flutter App**: [https://github.com/Ringlet-TwitterClone-Flutter/FlutterApp](https://github.com/Ringlet-TwitterClone-Flutter/FlutterApp)
 * Flutter is a social media platform application(Twitter clone) developed by an agile team of four, utilizing Java, Spring/Spring Boot, Maven, JHipster, JavaScript, React, PostGreSQL and many more technologies.
 * On Flutter, users are able to create an account, edit their user profile, create/edit/delete posts of thier own, and comment on other users' posts. They are able to embed their posts with hashtags, and search for similar content via those very hashtags.
-
-<br> 
 
 # Experience
 ### Zip Code Wilmington; Wilmington, DE 
