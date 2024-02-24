@@ -70,7 +70,7 @@ Forage - December 2023
 **Human Resources Specialist**
 
 - Manage the recruitment process, ensuring efficient hiring and smooth integration of new employees into the company.
-- Developed a policy for a new program catering to pediatric clients, broadening the scope of care services offered by the agency.
+- Develop a policy for a new program catering to pediatric clients, broadening the scope of care services offered by the agency.
 - Conduct training sessions for caregivers to uphold high standards of patient care and service.
 - Resolve workplace and client-caregiver conflicts, maintaining a harmonious work environment.
 - Liaise with insurance companies to confirm coverage for patient care services, supporting the agency's financial and operational goals.
