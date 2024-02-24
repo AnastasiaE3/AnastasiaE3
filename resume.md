@@ -64,6 +64,19 @@ Forage - December 2023
 - Utilized Agile and Scrum methodologies and test-driven development.
 - Gained experience in full-stack development with a focus on Java, test-driven development, and object-oriented programming.
 
+### Achilles Care, LLC; Hatboro, PA
+*November 2024 – Present*
+
+**Human Resources Specialist**
+
+- Manage the recruitment process, ensuring efficient hiring and smooth integration of new employees into the company.
+- Developed a policy for a new program catering to pediatric clients, broadening the scope of care services offered by the agency.
+- Conduct training sessions for caregivers to uphold high standards of patient care and service.
+- Resolve workplace and client-caregiver conflicts, maintaining a harmonious work environment.
+- Liaise with insurance companies to confirm coverage for patient care services, supporting the agency's financial and operational goals.
+- Oversee scheduling to ensure consistent and reliable care for clients, matching caregiver availability with patient needs.
+- Maintain accurate documentation and compliance with healthcare regulations, ensuring the agency operates within legal standards.
+
 ### Dutch Ophthalmic Research Center (D.O.R.C.); Doylestown, PA 
 *June 2021 – December 2022*
 
