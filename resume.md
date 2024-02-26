@@ -65,7 +65,7 @@ Forage - December 2023
 - Gained experience in full-stack development with a focus on Java, test-driven development, and object-oriented programming.
 
 ### Achilles Care, LLC; Hatboro, PA
-*November 2024 – Present*
+*November 2023 – Present*
 
 **Human Resources Specialist**
 
