@@ -68,7 +68,7 @@ Forage - December 2023
 - Liaise with insurance companies to confirm coverage for patient care services, supporting the agency's financial and operational goals.
 - Oversee scheduling to ensure consistent and reliable care for clients, matching caregiver availability with patient needs.
 - Maintain accurate documentation and compliance with healthcare regulations, ensuring the agency operates within legal standards.
-git 
+
 ### Zip Code Wilmington; Wilmington, DE 
 *February 2023 – May 2023*
 
