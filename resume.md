@@ -12,7 +12,7 @@
 ### Contact Information
 
 * Email: [`AnastasiaEpifanovaAE@gmail.com`](AnastasiaEpifanovaAE@gmail.com)
-* Phone: [`277-367-8574`](tel:+1-267-367-8574)
+* Phone: [`267-367-8574`](tel:+1-267-367-8574)
 * Website: [`nastyaepifanova.com`](http://nastyaepifanova.com)
 * LinkedIn: [`linkedin.com/in/epifanova-anastasia-nastya`](https://www.linkedin.com/in/epifanova-anastasia-nastya)
 
