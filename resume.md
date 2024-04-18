@@ -58,6 +58,15 @@ Forage - December 2023
 
 # Experience
 
+### Zip Code Wilmington; Wilmington, DE 
+*February 2023 – May 2023*
+
+**Software Developer**
+- Admitted into Zip Code Wilmington's highly competitive software development program, accepting less than 12% of applicants.
+- Completed over 1000 hours of software development projects in an immersive, full-stack training program.
+- Utilized Agile and Scrum methodologies and test-driven development.
+- Gained experience in full-stack development with a focus on Java, test-driven development, and object-oriented programming.
+
 ### Achilles Care, LLC; Hatboro, PA
 *November 2023 – Present*
 
@@ -78,9 +87,8 @@ Forage - December 2023
 - Assembled fragile, specialty ophthalmic laser equipment for over a year with zero errors.
 - Solely responsible for quality assurance, inventory tracking, and order management for medical products, including lasers for eye and ear surgeries.
 
-
 ## Education
-- **Zip Code (COding BootCamp) | Wilmington, DE**
+- **Zip Code (Coding BootCamp) | Wilmington, DE**
  *2023 Certificate of Completion*
 
 - **Bucks County Community College | Newtown, PA**  
