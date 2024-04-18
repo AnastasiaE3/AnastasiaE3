@@ -88,7 +88,7 @@ Forage - December 2023
 - Solely responsible for quality assurance, inventory tracking, and order management for medical products, including lasers for eye and ear surgeries.
 
 ## Education
-- **Zip Code (Coding BootCamp) | Wilmington, DE**
+- **Zip Code (Coding Boot Camp) | Wilmington, DE**
  *2023 Certificate of Completion*
 
 - **Bucks County Community College | Newtown, PA**  
