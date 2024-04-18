@@ -18,7 +18,6 @@
 * Website: [`nastyaepifanova.com`](http://nastyaepifanova.com)
 * LinkedIn: [`linkedin.com/in/epifanova-anastasia-nastya`](https://www.linkedin.com/in/epifanova-anastasia-nastya)
 
-
 ### Summary
 
 Full-Stack Java Developer with a foundation in communications studies and a passion for art. My creative background allows me to approach coding with a unique perspective, fostering creativity and open-mindedness in problem-solving. Proficient in Java and JavaScript, I am eager to collaborate with high-performing tech teams to tackle complex business challenges. Known for a positive, thoughtful, and results-oriented approach, I excel in delivering high-availability solutions through effective teamwork.
@@ -32,7 +31,6 @@ Forage - December 2023
  Co.
 * Created a new class to get an existing system up and running 
 * Wrote a test suite for the class added
-
 
 ## Personal Project
 
@@ -62,7 +60,7 @@ Forage - December 2023
 ### Zip Code Wilmington; Wilmington, DE 
 *February 2023 – May 2023*
 
-**Software Developer**
+**Software Developer Student**
 - Admitted into Zip Code Wilmington's highly competitive software development program, accepting less than 12% of applicants.
 - Completed over 1000 hours of software development projects in an immersive, full-stack training program.
 - Utilized Agile and Scrum methodologies and test-driven development.
