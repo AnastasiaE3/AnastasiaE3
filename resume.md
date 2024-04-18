@@ -72,13 +72,9 @@ Forage - December 2023
 
 **Human Resources Specialist**
 
-- Manage the recruitment process, ensuring efficient hiring and smooth integration of new employees into the company.
-- Develop a policy for a new program catering to pediatric clients, broadening the scope of care services offered by the agency.
-- Conduct training sessions for caregivers to uphold high standards of patient care and service.
-- Resolve workplace and client-caregiver conflicts, maintaining a harmonious work environment.
-- Liaise with insurance companies to confirm coverage for patient care services, supporting the agency's financial and operational goals.
-- Oversee scheduling to ensure consistent and reliable care for clients, matching caregiver availability with patient needs.
-- Maintain accurate documentation and compliance with healthcare regulations, ensuring the agency operates within legal standards.
+- Oversee recruitment and training processes, enhancing integration and care standards for pediatric and other clients.
+- Manage client-caregiver relations and handle conflicts, while liaising with insurance firms to secure coverage for services.
+- Supervise scheduling and ensure regulatory compliance in documentation, maintaining operational excellence and legal adherence.
 
 ### Dutch Ophthalmic Research Center (D.O.R.C.); Doylestown, PA 
 *June 2021 – December 2022*
