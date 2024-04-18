@@ -71,16 +71,6 @@ Forage - December 2023
 - Oversee scheduling to ensure consistent and reliable care for clients, matching caregiver availability with patient needs.
 - Maintain accurate documentation and compliance with healthcare regulations, ensuring the agency operates within legal standards.
 
-### Zip Code Wilmington; Wilmington, DE 
-*February 2023 – May 2023*
-
-**Software Developer**
-- Admitted into Zip Code Wilmington's highly competitive software development program, accepting less than 12% of applicants.
-- Completed over 1000 hours of software development projects in an immersive, full-stack training program.
-- Utilized Agile and Scrum methodologies and test-driven development.
-- Gained experience in full-stack development with a focus on Java, test-driven development, and object-oriented programming.
-
-
 ### Dutch Ophthalmic Research Center (D.O.R.C.); Doylestown, PA 
 *June 2021 – December 2022*
 
@@ -88,17 +78,9 @@ Forage - December 2023
 - Assembled fragile, specialty ophthalmic laser equipment for over a year with zero errors.
 - Solely responsible for quality assurance, inventory tracking, and order management for medical products, including lasers for eye and ear surgeries.
 
-### Dynamic Home Health; Bensalem, PA 
-*September 2020 – March 2021*
-
-**Medical Records and Quality Assurance Coordinator**
-- Resolved conflicts between clients and insurance companies.
-- Produced daily activity and performance reports.
-- Recruited and fostered relationships with new and existing clients.
-- Developed and executed plans to reduce system problems effectively.
 
 ## Education
-- **Zip Code | Wilmington, DE**
+- **Zip Code (COding BootCamp) | Wilmington, DE**
  *2023 Certificate of Completion*
 
 - **Bucks County Community College | Newtown, PA**  
