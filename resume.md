@@ -47,6 +47,7 @@ Forage - December 2023
   * H2 Database: In-memory database for efficient data handling.
   * Maven: For project management and build automation
 * Allowing users to manage entries in an H2 database.
+* Containerized the application using Docker to maintain a consistent operating environment. Deployed on Render.com with an automated script for seamless and reliable management.
 
 ## Group Project
 
