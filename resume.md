@@ -9,6 +9,8 @@
 
 ## Full-Stack Java Developer
 
+ Java • SpringBoot • JavaScript • HTML • CSS • React • SQL • Git • Postman • Jira • Docker • H2 • JUnit • Maven
+
 ### Contact Information
 
 * Email: [`AnastasiaEpifanovaAE@gmail.com`](AnastasiaEpifanovaAE@gmail.com)
