@@ -47,6 +47,8 @@ Forage - December 2023
 * Allowing users to manage entries in an H2 database.
 * Containerized the application using Docker to maintain a consistent operating environment. Deployed on Render.com with an automated script for seamless and reliable management.
 
+<div class="page-break"></div>
+
 ## Group Project
 
 ### Flutter App

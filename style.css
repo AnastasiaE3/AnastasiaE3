@@ -7,7 +7,10 @@ code, pre { font-family: 'Sora', sans-serif; color: #2f68e1; font-size: 12px; ov
 body {
     font-family: 'Sora', sans-serif;
     background-color: rgb(248, 249, 253) ;
+    line-height: 1.1;
+    
 }
+
 
 ul li a {
     color: #2f68e1 !important;
