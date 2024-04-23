@@ -37,15 +37,10 @@ Forage - December 2023
 ### CRUD Demo
 
 - **CRUD Demo**: [https://github.com/AnastasiaE3/FirstCrudApp](https://github.com/AnastasiaE3/FirstCrudApp) 
-* Developed using Spring Boot, showcasing skills in modern web app development
-* Technologies Used:
-  * Spring Boot: For rapid development and easy setup.
-  * Spring Data JPA: For database integration and data management.
-  * Spring Web: To create an interactive web interface.
-  * H2 Database: In-memory database for efficient data handling.
-  * Maven: For project management and build automation
-* Allowing users to manage entries in an H2 database.
-* Containerized the application using Docker to maintain a consistent operating environment. Deployed on Render.com with an automated script for seamless and reliable management.
+  * Developed a Spring Boot application to demonstrate modern web development skills. 
+  * This project features CRUD operations, allowing users to manage entries in an H2 in-memory database. 
+  * Key technologies include Spring Data JPA for database integration, Spring Web for interactive interface creation, and Maven for build automation. 
+  * The application is containerized with Docker for consistent environments and deployed on Render.com using an automated script for reliability.
 
 
 
