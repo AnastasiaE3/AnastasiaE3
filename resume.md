@@ -47,7 +47,7 @@ Forage - December 2023
 * Allowing users to manage entries in an H2 database.
 * Containerized the application using Docker to maintain a consistent operating environment. Deployed on Render.com with an automated script for seamless and reliable management.
 
-<div class="page-break"></div>
+
 
 ## Group Project
 
@@ -86,6 +86,7 @@ Forage - December 2023
 
 ## Education
 - **Zip Code (Coding Boot Camp) | Wilmington, DE**
+
  *2023 Certificate of Completion*
 
 - **Bucks County Community College | Newtown, PA**  
