@@ -86,7 +86,6 @@ Forage - December 2023
 
 ## Education
 - **Zip Code (Coding Boot Camp) | Wilmington, DE**
-
  *2023 Certificate of Completion*
 
 - **Bucks County Community College | Newtown, PA**  
