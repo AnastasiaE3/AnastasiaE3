@@ -20,7 +20,7 @@
 
 ### Summary
 
-Full-Stack Java Developer with a foundation in communications studies and a passion for art. My creative background allows me to approach coding with a unique perspective, fostering creativity and open-mindedness in problem-solving. Proficient in Java and JavaScript, I am eager to collaborate with high-performing tech teams to tackle complex business challenges. Known for a positive, thoughtful, and results-oriented approach, I excel in delivering g solutions through effective teamwork.
+Full-Stack Java Developer with a foundation in communications studies and a passion for art. My creative background allows me to approach coding with a unique perspective, fostering creativity and open-mindedness in problem-solving. Proficient in Java and JavaScript, I am eager to collaborate with high-performing tech teams to tackle complex business challenges. Known for a positive, thoughtful, and results-oriented approach, I excel in delivering high-quality solutions through effective teamwork.
 
 ### Certification
 
