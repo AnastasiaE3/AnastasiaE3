@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Anastasia Epifanova, Full-Stack Java Developer</title>
+<meta name="description" content="Anastasia Epifanova, Full-Stack Java Developer. Resume, projects, and contact information.">
+
+<meta property="og:title" content="Anastasia Epifanova, Full-Stack Java Developer">
+<meta property="og:description" content="Full-stack developer working in Java, Spring Boot, React, and PostgreSQL. Currently building Bloom, a calendar app.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://anastasiae3.github.io/AnastasiaE3/resume.html">
+<meta property="og:locale" content="en_US">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Anastasia Epifanova, Full-Stack Java Developer">
+<meta name="twitter:description" content="Full-stack developer working in Java, Spring Boot, React, and PostgreSQL.">
+
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='16' fill='%23B54B2A'/><text x='50' y='68' font-family='Inter,system-ui,sans-serif' font-size='52' font-weight='600' text-anchor='middle' fill='white'>AE</text></svg>">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<style>
+  :root {
+    --accent: #B54B2A;
+    --accent-hover: #8F3A20;
+    --text: #1A1A1A;
+    --text-muted: #5C5C5C;
+    --text-subtle: #8A8A8A;
+    --border: #E5E5E5;
+    --border-subtle: #F0F0F0;
+    --bg: #FFFFFF;
+    --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+    --font-mono: 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    font-size: 14px;
+    line-height: 1.55;
+    color: var(--text);
+    background: #FAFAF9;
+    padding: 40px 20px;
+  }
+
+  .page {
+    max-width: 880px;
+    margin: 0 auto;
+    background: var(--bg);
+    padding: 56px 64px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04), 0 8px 24px rgba(0,0,0,0.03);
+    position: relative;
+  }
+
+  /* Download button */
+  .download-btn {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    padding: 7px 14px;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    cursor: pointer;
+    border-radius: 3px;
+    transition: all 0.15s ease;
+    text-transform: lowercase;
+  }
+  .download-btn:hover {
+    color: var(--accent);
+    border-color: var(--accent);
+  }
+
+  /* Header */
+  header {
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 24px;
+    margin-bottom: 32px;
+  }
+
+  h1.name {
+    font-family: var(--font-sans);
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+    color: var(--text);
+    margin-bottom: 6px;
+  }
+  .name .accent-dot { color: var(--accent); }
+
+  .role {
+    font-family: var(--font-mono);
+    font-size: 13px;
+    font-weight: 400;
+    color: var(--text-muted);
+    letter-spacing: 0.01em;
+    margin-bottom: 18px;
+  }
+
+  .contact-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 24px;
+    font-family: var(--font-mono);
+    font-size: 12px;
+  }
+  .contact-row a {
+    color: var(--text-muted);
+    text-decoration: none;
+    transition: color 0.15s ease;
+  }
+  .contact-row a:hover { color: var(--accent); }
+  .contact-row .contact-label {
+    color: var(--text-subtle);
+    margin-right: 4px;
+  }
+
+  .email-wrap {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+  }
+  .copy-toast {
+    position: absolute;
+    left: 100%;
+    top: 50%;
+    transform: translateY(-50%) translateX(-4px);
+    margin-left: 8px;
+    padding: 2px 7px;
+    background: var(--accent);
+    color: white;
+    border-radius: 3px;
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    text-transform: lowercase;
+    opacity: 0;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    pointer-events: none;
+    white-space: nowrap;
+  }
+  .copy-toast.show {
+    opacity: 1;
+    transform: translateY(-50%) translateX(0);
+  }
+
+  /* Two-column screen layout. DOM order: main, aside.
+     Grid areas visually place aside on the left. */
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1.9fr;
+    grid-template-areas: "aside main";
+    gap: 40px;
+  }
+  main { grid-area: main; }
+  aside { grid-area: aside; }
+
+  aside .section, main .section { margin-bottom: 28px; }
+
+  h2.section-title {
+    font-family: var(--font-mono);
+    font-size: 10.5px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--text-subtle);
+    margin-bottom: 14px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid var(--border-subtle);
+  }
+
+  .summary {
+    font-size: 14px;
+    line-height: 1.7;
+    color: var(--text);
+  }
+
+  /* Skills */
+  .skill-group { margin-bottom: 12px; }
+  .skill-label {
+    font-family: var(--font-mono);
+    font-size: 10px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text-subtle);
+    display: block;
+    margin-bottom: 4px;
+  }
+  .skill-list {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--text);
+    line-height: 1.6;
+  }
+
+  /* Entries */
+  .entry { margin-bottom: 18px; }
+  .entry:last-child { margin-bottom: 0; }
+  .entry-header { margin-bottom: 6px; }
+  .entry-title {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--text);
+    line-height: 1.35;
+  }
+  .entry-subtitle {
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--text);
+    margin-top: 1px;
+  }
+  .entry-meta {
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--text-subtle);
+    letter-spacing: 0.01em;
+    margin-top: 3px;
+  }
+
+  .entry ul {
+    list-style: none;
+    padding-left: 0;
+    margin-top: 8px;
+  }
+  .entry ul li {
+    position: relative;
+    padding-left: 14px;
+    margin-bottom: 5px;
+    font-size: 13px;
+    line-height: 1.55;
+    color: var(--text);
+  }
+  .entry ul li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 9px;
+    width: 4px;
+    height: 1px;
+    background: var(--accent);
+  }
+
+  /* Project links */
+  .project-links {
+    font-family: var(--font-mono);
+    font-size: 11.5px;
+    margin-top: 6px;
+    color: var(--text-subtle);
+  }
+  .project-links div { margin-bottom: 2px; }
+  .project-links a {
+    color: var(--text-muted);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: all 0.15s ease;
+  }
+  .project-links a:hover {
+    color: var(--accent);
+    border-bottom-color: var(--accent);
+  }
+  .project-links .link-label {
+    color: var(--text-subtle);
+    margin-right: 6px;
+  }
+
+  /* Aside compact */
+  aside .entry-title { font-size: 13px; }
+  aside .entry-subtitle {
+    font-size: 12px;
+    color: var(--text-muted);
+    font-weight: 400;
+  }
+  aside .entry-meta { font-size: 10.5px; }
+  aside .entry ul li { font-size: 12px; }
+
+  /* Footer */
+  footer {
+    margin-top: 40px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border-subtle);
+    font-family: var(--font-mono);
+    font-size: 10.5px;
+    color: var(--text-subtle);
+    letter-spacing: 0.02em;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  /* Mobile */
+  @media (max-width: 720px) {
+    body { padding: 20px 12px; }
+    .page { padding: 32px 24px; }
+    h1.name { font-size: 30px; }
+    .grid {
+      grid-template-columns: 1fr;
+      grid-template-areas: "main" "aside";
+      gap: 24px;
+    }
+    .download-btn {
+      position: static;
+      display: inline-block;
+      margin-bottom: 24px;
+    }
+  }
+
+  /* PRINT: two-column via flexbox (no grid pagination bugs),
+     aggressive compaction to fit on one page. */
+  @media print {
+    @page {
+      size: letter;
+      margin: 0.55in;
+    }
+    body {
+      background: white;
+      padding: 0;
+      font-size: 9.5pt;
+      line-height: 1.35;
+    }
+    .page {
+      max-width: 100%;
+      padding: 0;
+      box-shadow: none;
+      margin: 0;
+    }
+    .download-btn,
+    .copy-toast,
+    footer {
+      display: none !important;
+    }
+
+    /* Header compact */
+    h1.name { font-size: 22pt; margin-bottom: 2pt; }
+    .role { font-size: 9.5pt; margin-bottom: 9pt; }
+    .contact-row {
+      font-size: 8pt;
+      gap: 3pt 14pt;
+    }
+    header {
+      padding-bottom: 10pt;
+      margin-bottom: 14pt;
+      border-bottom-color: #D8D8D8;
+    }
+
+    /* Flex two-column, aside visually on the left via row-reverse.
+       DOM order is main, aside (natural reading order preserved). */
+    .grid {
+      display: flex;
+      flex-direction: row-reverse;
+      gap: 22pt;
+      align-items: flex-start;
+    }
+    aside {
+      flex: 0 0 1.85in;
+      min-width: 0;
+    }
+    main {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .section {
+      margin-bottom: 11pt;
+    }
+    h2.section-title {
+      font-size: 7.5pt;
+      margin-bottom: 6pt;
+      padding-bottom: 3pt;
+      border-bottom-color: #D8D8D8;
+      letter-spacing: 0.16em;
+    }
+
+    /* Summary */
+    .summary {
+      font-size: 9.5pt;
+      line-height: 1.45;
+    }
+
+    /* Entries */
+    .entry {
+      margin-bottom: 8pt;
+      page-break-inside: avoid;
+      break-inside: avoid;
+    }
+    .entry-header {
+      margin-bottom: 3pt;
+    }
+    .entry-title { font-size: 10pt; }
+    .entry-subtitle { font-size: 9pt; }
+    .entry-meta { font-size: 8pt; margin-top: 1pt; }
+    .entry ul { margin-top: 4pt; }
+    .entry ul li {
+      font-size: 9pt;
+      margin-bottom: 2pt;
+      line-height: 1.35;
+      padding-left: 10pt;
+    }
+    .entry ul li::before {
+      top: 6pt;
+      width: 3pt;
+    }
+
+    /* Skills stack single column inside narrow aside */
+    .skill-group { margin-bottom: 6pt; }
+    .skill-label { font-size: 7pt; margin-bottom: 2pt; }
+    .skill-list { font-size: 8.5pt; line-height: 1.4; }
+
+    /* Aside compact styles */
+    aside .entry-title { font-size: 9.5pt; }
+    aside .entry-subtitle { font-size: 8.5pt; }
+    aside .entry-meta { font-size: 7.5pt; }
+    aside .entry ul li { font-size: 8.5pt; }
+    aside .entry { margin-bottom: 7pt; }
+
+    /* Project links compact */
+    .project-links {
+      font-size: 8pt;
+      margin-top: 3pt;
+    }
+    .project-links div { margin-bottom: 1pt; }
+
+    a {
+      color: inherit !important;
+      text-decoration: none;
+    }
+  }
+</style>
+</head>
+<body>
+
+<div class="page">
+
+  <button class="download-btn" onclick="window.print()" aria-label="Download resume as PDF">
+    download pdf
+  </button>
+
+  <header>
+    <h1 class="name">Anastasia Epifanova<span class="accent-dot">.</span></h1>
+    <div class="role">Full-Stack Java Developer</div>
+
+    <div class="contact-row">
+      <span class="email-wrap"><span class="contact-label">email</span><a href="mailto:AnastasiaEpifanovaAE@gmail.com" id="email-link" onclick="copyEmail(event)">AnastasiaEpifanovaAE@gmail.com</a><span class="copy-toast" id="copy-toast">copied</span></span>
+      <span><span class="contact-label">phone</span><a href="tel:+12673678574">267.367.8574</a></span>
+      <span><span class="contact-label">linkedin</span><a href="https://www.linkedin.com/in/epifanova-anastasia-nastya" target="_blank" rel="noopener">/epifanova-anastasia-nastya</a></span>
+      <span><span class="contact-label">github</span><a href="https://github.com/AnastasiaE3" target="_blank" rel="noopener">/AnastasiaE3</a></span>
+    </div>
+  </header>
+
+  <div class="grid">
+
+    <main>
+
+      <section class="section">
+        <h2 class="section-title">Summary</h2>
+        <p class="summary">
+          Full-stack developer with a background in communications and a love for art. I got into tech because I like building things, the kind of small, useful tools I'd actually want to use myself. Right now I'm working on a calendar app, front to back, just to see how it all fits together. I'm still learning, and honestly that's the part I like most.
+        </p>
+      </section>
+
+      <section class="section">
+        <h2 class="section-title">Experience</h2>
+
+        <div class="entry">
+          <div class="entry-header">
+            <div class="entry-title">Software Development Intern</div>
+            <div class="entry-subtitle">Zip Code Wilmington, Wilmington, DE</div>
+            <div class="entry-meta">March 2026 to Present</div>
+          </div>
+          <ul>
+            <li>Currently participating in an immersive internship focused on hands-on full-stack development.</li>
+          </ul>
+        </div>
+
+        <div class="entry">
+          <div class="entry-header">
+            <div class="entry-title">Human Resources Specialist</div>
+            <div class="entry-subtitle">Achilles Care, LLC, Hatboro, PA</div>
+            <div class="entry-meta">November 2023 to March 2024</div>
+          </div>
+          <ul>
+            <li>Oversaw recruitment and training processes, improving integration and care standards for pediatric and other clients.</li>
+            <li>Managed client and caregiver relations, handled conflicts, and liaised with insurance firms to secure coverage for services.</li>
+            <li>Supervised scheduling and ensured regulatory compliance in documentation, maintaining operational and legal standards.</li>
+          </ul>
+        </div>
+
+        <div class="entry">
+          <div class="entry-header">
+            <div class="entry-title">Software Developer Student</div>
+            <div class="entry-subtitle">Zip Code Wilmington, Wilmington, DE</div>
+            <div class="entry-meta">February 2023 to May 2023</div>
+          </div>
+          <ul>
+            <li>Admitted into a competitive full-stack Java program that accepts less than 12% of applicants.</li>
+            <li>Completed over 1000 hours of hands-on projects using Agile, Scrum, TDD, and object-oriented programming.</li>
+          </ul>
+        </div>
+
+        <div class="entry">
+          <div class="entry-header">
+            <div class="entry-title">Assembler</div>
+            <div class="entry-subtitle">Dutch Ophthalmic Research Center (D.O.R.C.), Doylestown, PA</div>
+            <div class="entry-meta">June 2021 to December 2022</div>
+          </div>
+          <ul>
+            <li>Assembled fragile, specialty ophthalmic laser equipment for over a year with zero errors.</li>
+            <li>Solely responsible for quality assurance, inventory tracking, and order management for medical products.</li>
+          </ul>
+        </div>
+
+      </section>
+
+      <section class="section">
+        <h2 class="section-title">Projects</h2>
+
+        <div class="entry">
+          <div class="entry-header">
+            <div class="entry-title">Bloom, Calendar App</div>
+            <div class="entry-subtitle">Full-Stack Personal Project</div>
+          </div>
+          <div class="project-links">
+            <div><span class="link-label">frontend</span><a href="https://github.com/AnastasiaE3/my-calendar-app" target="_blank" rel="noopener">github.com/AnastasiaE3/my-calendar-app</a></div>
+            <div><span class="link-label">backend</span><a href="https://github.com/AnastasiaE3/bloom-backend" target="_blank" rel="noopener">github.com/AnastasiaE3/bloom-backend</a></div>
+          </div>
+          <ul>
+            <li>Full-stack personal calendar with four views (Year, Month, Week, Day) for managing events, notes, and lists.</li>
+            <li>React, Tailwind CSS, and React Router on the frontend; Java 21, Spring Boot, and PostgreSQL on the backend, deployed live on Railway.</li>
+            <li>Single-user app with shared data across PC and mobile, styled with a custom peach and coral color palette.</li>
+          </ul>
+        </div>
+
+        <div class="entry">
+          <div class="entry-header">
+            <div class="entry-title">CRUD Demo</div>
+            <div class="entry-subtitle">Spring Boot Application</div>
+          </div>
+          <div class="project-links">
+            <div><span class="link-label">repo</span><a href="https://github.com/AnastasiaE3/FirstCrudApp" target="_blank" rel="noopener">github.com/AnastasiaE3/FirstCrudApp</a></div>
+          </div>
+          <ul>
+            <li>Spring Boot app with CRUD operations on an H2 in-memory database, using Spring Data JPA, Spring Web, and Maven.</li>
+            <li>Containerized with Docker and deployed on Render.com via an automated script.</li>
+          </ul>
+        </div>
+
+      </section>
+
+    </main>
+
+    <aside>
+
+      <section class="section">
+        <h2 class="section-title">Skills</h2>
+
+        <div class="skill-group">
+          <span class="skill-label">Languages</span>
+          <div class="skill-list">Java, JavaScript, HTML, CSS, SQL</div>
+        </div>
+
+        <div class="skill-group">
+          <span class="skill-label">Frameworks</span>
+          <div class="skill-list">Spring Boot, React, Tailwind CSS</div>
+        </div>
+
+        <div class="skill-group">
+          <span class="skill-label">Databases</span>
+          <div class="skill-list">PostgreSQL, H2</div>
+        </div>
+
+        <div class="skill-group">
+          <span class="skill-label">Tools</span>
+          <div class="skill-list">Git, GitHub, Maven, Docker, Postman, Jira</div>
+        </div>
+
+        <div class="skill-group">
+          <span class="skill-label">Testing</span>
+          <div class="skill-list">JUnit</div>
+        </div>
+
+        <div class="skill-group">
+          <span class="skill-label">Deployment</span>
+          <div class="skill-list">Railway</div>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2 class="section-title">Education</h2>
+
+        <div class="entry">
+          <div class="entry-title">Zip Code Wilmington</div>
+          <div class="entry-subtitle">Coding Boot Camp, Certificate of Completion</div>
+          <div class="entry-meta">Wilmington, DE / 2023</div>
+        </div>
+
+        <div class="entry">
+          <div class="entry-title">Bucks County Community College</div>
+          <div class="entry-subtitle">Associate of Arts, Communications Studies</div>
+          <div class="entry-meta">Newtown, PA / Sept 2019 to May 2021</div>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2 class="section-title">Certification</h2>
+
+        <div class="entry">
+          <div class="entry-title">Software Engineering Lite</div>
+          <div class="entry-subtitle">JPMorgan Chase &amp; Co. via Forage</div>
+          <div class="entry-meta">December 2023</div>
+          <ul>
+            <li>Completed an engineering ticket for the credit card rewards system.</li>
+            <li>Wrote a new class and test suite to get an existing system running.</li>
+          </ul>
+        </div>
+      </section>
+
+    </aside>
+
+  </div>
+
+  <footer>
+    <span>Anastasia Epifanova</span>
+    <span>Last updated July 2026</span>
+  </footer>
+
+</div>
+
+<script>
+  function copyEmail(e) {
+    var email = 'AnastasiaEpifanovaAE@gmail.com';
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(email).catch(function(){});
+    } else {
+      try {
+        var t = document.createElement('textarea');
+        t.value = email;
+        document.body.appendChild(t);
+        t.select();
+        document.execCommand('copy');
+        document.body.removeChild(t);
+      } catch(err) {}
+    }
+    var toast = document.getElementById('copy-toast');
+    if (toast) {
+      toast.classList.add('show');
+      setTimeout(function(){ toast.classList.remove('show'); }, 1600);
+    }
+  }
+</script>
+
+</body>
+</html>
