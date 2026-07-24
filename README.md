@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" media="all" href="./style.css" />
 
 
-_Click [here](https://anastasiae3.github.io/AnastasiaE3/resume.html) to view full portfolio_
+_Click [here](https://anastasiae3.github.io/AnastasiaE3/resume.html) to view resume_
 
 
 ### Education
